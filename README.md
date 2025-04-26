@@ -6,13 +6,13 @@ https://artillerymag.com/
 ## Power Automate Flows
 https://make.powerautomate.com/
 
-Each of our Power Automate Flows have been shared with mhuber@uga.edu. Follow these steps to view the flow:
+Each of our Power Automate Flows have been shared with mhuber@uga.edu. Follow these steps to view the flows:
 1. Click on the link above
 2. Click "My flows" on the left side of the screen
 3. Click "Shared with me"
 4. Click on the flow you want to view
-5. Click the "Edit" button on the top left to view the flow
-6. On the flow, click the down arrow next to conditional flows to expand it
+5. Click the "Edit" button in the top left to view the flow
+6. On the flow, click the down arrow next to conditional flows to expand them
 7. To see the code view, click the double arrows on the far left bar and select "Code view"
 
 If you have any questions on the functionality, we'd be happy to answer them.
