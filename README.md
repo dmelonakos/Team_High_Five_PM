@@ -15,7 +15,7 @@ Each of our Power Automate Flows have been shared with mhuber@uga.edu. Follow th
 6. On the flow, click the down arrow next to conditional flows to expand them
 7. To see the code view, click the double arrows on the far left bar and select "Code view"
 
-If you have any questions on the functionality, we'd be happy to answer them.
+If you have any questions on the functionality or would like to view the flows in action, we'd be happy to walk you through it.
 ## Excel Output Document
 https://excel.cloud.microsoft/
 
